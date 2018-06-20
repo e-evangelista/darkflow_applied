@@ -7,7 +7,8 @@ This repo documents how my project team used darkflow (https://github.com/thtrie
 ### Image Collection
 
 Marine species images were provided by the Cal Poly Center for Coastal Marine Sciences.
-Dog breed images were obtained from Kaggle (https://www.kaggle.com/c/dog-breed-identification) and further supplemented from Google Images using this script (https://github.com/markjay4k/YOLO-series/blob/master/part5%20-%20get_images.py).
+
+Dog breed images were obtained from Kaggle (https://www.kaggle.com/c/dog-breed-identification) and further supplemented with Google Images using this script (https://github.com/markjay4k/YOLO-series/blob/master/part5%20-%20get_images.py).
 
 ### Bounding Boxes
 
